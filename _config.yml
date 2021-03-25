@@ -1,5 +1,5 @@
 title: Texture Theme
-author: X3ntr
+author: Sander Forrer
 email: r0809853@student.thomasmore.bbe
 description: > # this means to ignore newlines until "show_exerpts:"
   Internship blog
@@ -14,8 +14,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Sander Forrer
+  tagline: Internship NVISO
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -23,9 +23,9 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: X3ntr
+    twitter: 
     github:  X3ntr
-    linkedIn: be/sanderforrer
+    linkedIn: in/sanderforrer
     rss: rss
  
 
