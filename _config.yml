@@ -14,8 +14,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Sander Forrer
-  tagline: Internship NVISO
+  title: Internship blog NVISO
+  tagline: Sander Forrer
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
