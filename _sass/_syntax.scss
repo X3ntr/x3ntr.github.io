@@ -16,10 +16,15 @@ div.highlight {
 }
 
 pre.highlight, code {
-	font-family: 'Consolas', Menlo, monospace;
+	//font-family: 'Consolas', Menlo, monospace;
+	font-family: 'Courier New', monospace;
 	line-height: 1.4em;
 	tab-size: 4;
 	//background-color: #f4f4f4;
-	background-color: #383838;
-	color: #f4f4f4;
+	//background-color: #383838;
+	//color: #f4f4f4;
+	background: rgba(0, 0, 0, 0.05);
+	border-color: rgba(0, 0, 0, 0.2);
+	border-radius: 4px;
+	color: #888;
 }
